@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Generated images
+seed.png
+*.jpg
+*.jpeg
+*.png
+
+# NumPy/data files
+*.npy
+*.npz
+*.csv
+
+# Datasets
+DoubleBeanDataset/
+dataset/
+datasets/
+
+# Machine learning model files
+*.pt
+*.pth
+*.onnx
+*.h5
+*.keras
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arduino temporary/build files
+*.hex
+*.elf
+*.bin
+*.map
+
+# Serial/log files
+*.log
+
+# Environment/config files
+.env
+.env.*
